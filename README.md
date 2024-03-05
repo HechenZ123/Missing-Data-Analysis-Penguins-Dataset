@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo provides an analysis to to investigate into the missing values in the data set pertaining to penguins from 2007 to 2009. It provides an in-depth analysis of the missing values in the data set along with employing simulated methods to understand the various types of missingness in the data.
+This repo provides an analysis to investigate into the missing values in the data set pertaining to penguins from 2007 to 2009. It provides an in-depth analysis of the missing values in the data set along with employing simulated methods to understand the various types of missingness in the data.
 
 These findings illustrate the trade-offs between simplicity and accuracy in managing missing data, emphasizing the benefits of approaches such as multiple imputation in capturing variability.
 
