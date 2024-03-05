@@ -2,7 +2,7 @@
 title: "Analyzing Missing Data in the Palmerpenguins Dataset"
 author: 
   - Hechen Zhang
-thanks: "Codes are available at: https://github.com/HechenZ123/Comparative-Analysis-of-Imputed-and-Actual-Value-in-the-Palmer-Penguins-Datase.git"
+thanks: "Codes are available at: https://github.com/HechenZ123/Missing-Data-Analysis-Penguins-Dataset.git"
 date: "today"
 date-format: "long" 
 abstract: "Peer reviewed by Dailin Li and Yanyu Wu"
